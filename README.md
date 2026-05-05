@@ -50,10 +50,10 @@ to understand traffic patterns, user engagement, and market behavior.
 ## 📸 Dashboard Preview
 
 ### Excel Dashboard
-![Excel Dashboard](screenshots/Global Web Traffic Analysis-Excel Dashboard.png)
+![Excel Dashboard](Screenshots/Global Web Traffic Analysis-Excel Dashboard .png)
 
 ### Power BI Dashboard
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](Screenshots/Global Web Traffic Analysis 2026 - Power bi dashboard.png)
 
 ---
 
