@@ -35,6 +35,13 @@ to understand traffic patterns, user engagement, and market behavior.
 | Power BI | Final Interactive Dashboard |
 
 ---
+## 📸 Dashboard Preview
+
+### Excel Dashboard
+![Excel Dashboard](Screenshots/Global%20Web%20Traffic%20Analysis-Excel%20Dashboard%20.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](Screenshots/Global%20Web%20Traffic%20Analysis%202026%20-%20Power%20bi%20dashboard.png)
 
 ---
 
