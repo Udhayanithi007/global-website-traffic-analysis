@@ -47,15 +47,6 @@ to understand traffic patterns, user engagement, and market behavior.
 
 ---
 
-## 📸 Dashboard Preview
-
-### Excel Dashboard
-![Excel Dashboard](Screenshots/Global Web Traffic Analysis-Excel Dashboard .png)
-
-### Power BI Dashboard
-![Power BI Dashboard](Screenshots/Global Web Traffic Analysis 2026 - Power bi dashboard.png)
-
----
 
 ## ⚙️ Data Cleaning Steps
 1. Introduced realistic missing values (2-5% per column)
@@ -73,5 +64,5 @@ to understand traffic patterns, user engagement, and market behavior.
 ## 👤 Author
 **Udhayanithi**
 Aspiring Data Analyst
-📧 your-email@gmail.com
-🔗 LinkedIn: your-linkedin-url
+📧 nithiudhaya56@gmail.com
+🔗 LinkedIn:www.linkedin.com/in/udhayanithi007
